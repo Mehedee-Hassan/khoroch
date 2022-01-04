@@ -1,0 +1,11 @@
+https://docs.flutter.dev/reference/flutter-cli
+
+1. this is the terminal command
+
+ flutter create my_app
+ cd my_app
+ flutter analyze
+ flutter test
+ flutter run lib/main.dart
+
+tutorial : https://www.youtube.com/watch?v=whDdLQIUnHA
